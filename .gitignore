@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub - download from Kaggle)
+data/
+*.csv
+
+# Saved models
+*.joblib
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
